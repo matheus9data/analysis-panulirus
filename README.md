@@ -1,4 +1,4 @@
-# Análise Espacial e Distribuição de Panulirus guttatus
+# Análise Espacial e Distribuição de Panulirus spp.
 
 Este projeto contém um pipeline de dados em R estruturado para limitar, processar e mapear a distribuição geográfica das espécies *Panulirus spp.*. 
 
